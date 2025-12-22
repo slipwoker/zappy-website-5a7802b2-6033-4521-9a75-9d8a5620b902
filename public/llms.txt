@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### דף הבית
+https://example.com
+גלו שירותי תיקון גיטרה חשמלית במרכז המובילים בעמק חפר. מומחים לתיקון וסדנת תיקון גיטרות אקוסטיות. צרו קשר עוד היום!
+
+### השירותים שלנו
+https://example.com/services
+גלו את מגוון שירותי תיקון גיטרה חשמלית במרכז וסדנת תיקון גיטרות אקוסטיות. תיקונים, שדרוגים ותחזוקה מקצועית לכל סוגי הגיטרות.
+
+### אודות
+https://example.com/about
+למדו על הסיפור מאחורי חפר סטאפס - מומחים לתיקון גיטרה חשמלית במרכז וסדנת תיקון גיטרות אקוסטיות. ניסיון, מקצועיות ואהבה למוזיקה.
+
+### צור קשר
+https://example.com/contact
+צרו קשר עם חפר סטאפס לשירותי תיקון גיטרה חשמלית במרכז וסדנת תיקון גיטרות אקוסטיות. נשמח לעזור לכם עם כל שאלה או תיקון.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
