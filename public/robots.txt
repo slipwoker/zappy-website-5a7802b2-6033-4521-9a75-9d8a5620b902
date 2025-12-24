@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://zappy-site-5a7802b2-6033-4521-9a75.onrender.com/sitemap.xml
+Sitemap: https://hever-staffs.zappy5.app/sitemap.xml

@@ -1,59 +1,47 @@
-# חפר סטאפס — Generative Engine Optimization Map
-
-> A שירותי תיקון מוזיקה business.
+# Business — Generative Engine Optimization Map
 
 ---
 
 ## Pages
 
 ### דף הבית
-https://zappy-site-5a7802b2-6033-4521-9a75.onrender.com
+https://hever-staffs.zappy5.app
 גלו שירותי תיקון גיטרה חשמלית במרכז המובילים בעמק חפר. מומחים לתיקון וסדנת תיקון גיטרות אקוסטיות. צרו קשר עוד היום!
 
 ### השירותים שלנו
-https://zappy-site-5a7802b2-6033-4521-9a75.onrender.com/services
+https://hever-staffs.zappy5.app/price-list
 גלו את מגוון שירותי תיקון גיטרה חשמלית במרכז וסדנת תיקון גיטרות אקוסטיות. תיקונים, שדרוגים ותחזוקה מקצועית לכל סוגי הגיטרות.
 
 ### אודות
-https://zappy-site-5a7802b2-6033-4521-9a75.onrender.com/about
+https://hever-staffs.zappy5.app/about
 למדו על הסיפור מאחורי חפר סטאפס - מומחים לתיקון גיטרה חשמלית במרכז וסדנת תיקון גיטרות אקוסטיות. ניסיון, מקצועיות ואהבה למוזיקה.
 
 ### צור קשר
-https://zappy-site-5a7802b2-6033-4521-9a75.onrender.com/contact
+https://hever-staffs.zappy5.app/contact
 צרו קשר עם חפר סטאפס לשירותי תיקון גיטרה חשמלית במרכז וסדנת תיקון גיטרות אקוסטיות. נשמח לעזור לכם עם כל שאלה או תיקון.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://zappy-site-5a7802b2-6033-4521-9a75.onrender.com/privacy
+https://hever-staffs.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://zappy-site-5a7802b2-6033-4521-9a75.onrender.com/terms
+https://hever-staffs.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://zappy-site-5a7802b2-6033-4521-9a75.onrender.com/accessibility
+https://hever-staffs.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About חפר סטאפס
-חפר סטאפס is a business in the שירותי תיקון מוזיקה industry.
-
-## Target Audience
-- גיטריסטים מקצועיים
-- מרכזי חינוך מוזיקלי
-- גיטריסטים מתחילים
-
-## Industry
-שירותי תיקון מוזיקה
-
+## About Business
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://zappy-site-5a7802b2-6033-4521-9a75.onrender.com/sitemap.xml
-- **Robots.txt**: https://zappy-site-5a7802b2-6033-4521-9a75.onrender.com/robots.txt
+- **Sitemap**: https://hever-staffs.zappy5.app/sitemap.xml
+- **Robots.txt**: https://hever-staffs.zappy5.app/robots.txt

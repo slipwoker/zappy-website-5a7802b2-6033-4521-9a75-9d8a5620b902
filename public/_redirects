@@ -1,7 +1,7 @@
 # Clean URL redirects for Render static hosting
 # These rewrite rules show clean URLs to users while serving .html files
 
-/services  /services.html  200
+/price-list  /price-list.html  200
 /about  /about.html  200
 /contact  /contact.html  200
 /privacy  /privacy.html  200
